@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/zhan/domain/Order.java=UTF-8
+encoding//src/zhan/domain/OrderItem.java=UTF-8
+encoding//src/zhan/utils/JedisPoolUtils.java=UTF-8
